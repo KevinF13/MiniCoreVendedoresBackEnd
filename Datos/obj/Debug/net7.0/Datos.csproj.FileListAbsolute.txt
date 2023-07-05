@@ -1,0 +1,68 @@
+D:\UDLA\UDLA 7° SEMESTRE\INGENIERÍA WEB\MiniCore\Datos\bin\Debug\net7.0\Datos.deps.json
+D:\UDLA\UDLA 7° SEMESTRE\INGENIERÍA WEB\MiniCore\Datos\bin\Debug\net7.0\Datos.runtimeconfig.json
+D:\UDLA\UDLA 7° SEMESTRE\INGENIERÍA WEB\MiniCore\Datos\bin\Debug\net7.0\Datos.dll
+D:\UDLA\UDLA 7° SEMESTRE\INGENIERÍA WEB\MiniCore\Datos\bin\Debug\net7.0\Datos.pdb
+D:\UDLA\UDLA 7° SEMESTRE\INGENIERÍA WEB\MiniCore\Datos\bin\Debug\net7.0\Entidades.dll
+D:\UDLA\UDLA 7° SEMESTRE\INGENIERÍA WEB\MiniCore\Datos\bin\Debug\net7.0\Entidades.pdb
+D:\UDLA\UDLA 7° SEMESTRE\INGENIERÍA WEB\MiniCore\Datos\obj\Debug\net7.0\Datos.csproj.AssemblyReference.cache
+D:\UDLA\UDLA 7° SEMESTRE\INGENIERÍA WEB\MiniCore\Datos\obj\Debug\net7.0\Datos.GeneratedMSBuildEditorConfig.editorconfig
+D:\UDLA\UDLA 7° SEMESTRE\INGENIERÍA WEB\MiniCore\Datos\obj\Debug\net7.0\Datos.AssemblyInfoInputs.cache
+D:\UDLA\UDLA 7° SEMESTRE\INGENIERÍA WEB\MiniCore\Datos\obj\Debug\net7.0\Datos.AssemblyInfo.cs
+D:\UDLA\UDLA 7° SEMESTRE\INGENIERÍA WEB\MiniCore\Datos\obj\Debug\net7.0\Datos.csproj.CoreCompileInputs.cache
+D:\UDLA\UDLA 7° SEMESTRE\INGENIERÍA WEB\MiniCore\Datos\obj\Debug\net7.0\Datos.csproj.CopyComplete
+D:\UDLA\UDLA 7° SEMESTRE\INGENIERÍA WEB\MiniCore\Datos\obj\Debug\net7.0\Datos.dll
+D:\UDLA\UDLA 7° SEMESTRE\INGENIERÍA WEB\MiniCore\Datos\obj\Debug\net7.0\refint\Datos.dll
+D:\UDLA\UDLA 7° SEMESTRE\INGENIERÍA WEB\MiniCore\Datos\obj\Debug\net7.0\Datos.pdb
+D:\UDLA\UDLA 7° SEMESTRE\INGENIERÍA WEB\MiniCore\Datos\obj\Debug\net7.0\Datos.genruntimeconfig.cache
+D:\UDLA\UDLA 7° SEMESTRE\INGENIERÍA WEB\MiniCore\Datos\obj\Debug\net7.0\ref\Datos.dll
+D:\UDLA\UDLA 7° SEMESTRE\INGENIERÍA WEB\MiniCore\MiniCoreBack\Datos\bin\Debug\net7.0\Datos.deps.json
+D:\UDLA\UDLA 7° SEMESTRE\INGENIERÍA WEB\MiniCore\MiniCoreBack\Datos\bin\Debug\net7.0\Datos.runtimeconfig.json
+D:\UDLA\UDLA 7° SEMESTRE\INGENIERÍA WEB\MiniCore\MiniCoreBack\Datos\bin\Debug\net7.0\Datos.dll
+D:\UDLA\UDLA 7° SEMESTRE\INGENIERÍA WEB\MiniCore\MiniCoreBack\Datos\bin\Debug\net7.0\Datos.pdb
+D:\UDLA\UDLA 7° SEMESTRE\INGENIERÍA WEB\MiniCore\MiniCoreBack\Datos\bin\Debug\net7.0\Entidades.dll
+D:\UDLA\UDLA 7° SEMESTRE\INGENIERÍA WEB\MiniCore\MiniCoreBack\Datos\bin\Debug\net7.0\Entidades.pdb
+D:\UDLA\UDLA 7° SEMESTRE\INGENIERÍA WEB\MiniCore\MiniCoreBack\Datos\obj\Debug\net7.0\Datos.csproj.AssemblyReference.cache
+D:\UDLA\UDLA 7° SEMESTRE\INGENIERÍA WEB\MiniCore\MiniCoreBack\Datos\obj\Debug\net7.0\Datos.GeneratedMSBuildEditorConfig.editorconfig
+D:\UDLA\UDLA 7° SEMESTRE\INGENIERÍA WEB\MiniCore\MiniCoreBack\Datos\obj\Debug\net7.0\Datos.AssemblyInfoInputs.cache
+D:\UDLA\UDLA 7° SEMESTRE\INGENIERÍA WEB\MiniCore\MiniCoreBack\Datos\obj\Debug\net7.0\Datos.AssemblyInfo.cs
+D:\UDLA\UDLA 7° SEMESTRE\INGENIERÍA WEB\MiniCore\MiniCoreBack\Datos\obj\Debug\net7.0\Datos.csproj.CoreCompileInputs.cache
+D:\UDLA\UDLA 7° SEMESTRE\INGENIERÍA WEB\MiniCore\MiniCoreBack\Datos\obj\Debug\net7.0\Datos.csproj.CopyComplete
+D:\UDLA\UDLA 7° SEMESTRE\INGENIERÍA WEB\MiniCore\MiniCoreBack\Datos\obj\Debug\net7.0\Datos.dll
+D:\UDLA\UDLA 7° SEMESTRE\INGENIERÍA WEB\MiniCore\MiniCoreBack\Datos\obj\Debug\net7.0\refint\Datos.dll
+D:\UDLA\UDLA 7° SEMESTRE\INGENIERÍA WEB\MiniCore\MiniCoreBack\Datos\obj\Debug\net7.0\Datos.pdb
+D:\UDLA\UDLA 7° SEMESTRE\INGENIERÍA WEB\MiniCore\MiniCoreBack\Datos\obj\Debug\net7.0\Datos.genruntimeconfig.cache
+D:\UDLA\UDLA 7° SEMESTRE\INGENIERÍA WEB\MiniCore\MiniCoreBack\Datos\obj\Debug\net7.0\ref\Datos.dll
+C:\Users\Kevin\Desktop\MIniCorePruebas\3\MiniCoreFinal-main (1)\MiniCoreFinal-main\MiniCoreBack\Datos\bin\Debug\net7.0\Datos.deps.json
+C:\Users\Kevin\Desktop\MIniCorePruebas\3\MiniCoreFinal-main (1)\MiniCoreFinal-main\MiniCoreBack\Datos\bin\Debug\net7.0\Datos.runtimeconfig.json
+C:\Users\Kevin\Desktop\MIniCorePruebas\3\MiniCoreFinal-main (1)\MiniCoreFinal-main\MiniCoreBack\Datos\bin\Debug\net7.0\Datos.dll
+C:\Users\Kevin\Desktop\MIniCorePruebas\3\MiniCoreFinal-main (1)\MiniCoreFinal-main\MiniCoreBack\Datos\bin\Debug\net7.0\Datos.pdb
+C:\Users\Kevin\Desktop\MIniCorePruebas\3\MiniCoreFinal-main (1)\MiniCoreFinal-main\MiniCoreBack\Datos\bin\Debug\net7.0\Entidades.dll
+C:\Users\Kevin\Desktop\MIniCorePruebas\3\MiniCoreFinal-main (1)\MiniCoreFinal-main\MiniCoreBack\Datos\bin\Debug\net7.0\Entidades.pdb
+C:\Users\Kevin\Desktop\MIniCorePruebas\3\MiniCoreFinal-main (1)\MiniCoreFinal-main\MiniCoreBack\Datos\obj\Debug\net7.0\Datos.csproj.AssemblyReference.cache
+C:\Users\Kevin\Desktop\MIniCorePruebas\3\MiniCoreFinal-main (1)\MiniCoreFinal-main\MiniCoreBack\Datos\obj\Debug\net7.0\Datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kevin\Desktop\MIniCorePruebas\3\MiniCoreFinal-main (1)\MiniCoreFinal-main\MiniCoreBack\Datos\obj\Debug\net7.0\Datos.AssemblyInfoInputs.cache
+C:\Users\Kevin\Desktop\MIniCorePruebas\3\MiniCoreFinal-main (1)\MiniCoreFinal-main\MiniCoreBack\Datos\obj\Debug\net7.0\Datos.AssemblyInfo.cs
+C:\Users\Kevin\Desktop\MIniCorePruebas\3\MiniCoreFinal-main (1)\MiniCoreFinal-main\MiniCoreBack\Datos\obj\Debug\net7.0\Datos.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\Desktop\MIniCorePruebas\3\MiniCoreFinal-main (1)\MiniCoreFinal-main\MiniCoreBack\Datos\obj\Debug\net7.0\Datos.csproj.CopyComplete
+C:\Users\Kevin\Desktop\MIniCorePruebas\3\MiniCoreFinal-main (1)\MiniCoreFinal-main\MiniCoreBack\Datos\obj\Debug\net7.0\Datos.dll
+C:\Users\Kevin\Desktop\MIniCorePruebas\3\MiniCoreFinal-main (1)\MiniCoreFinal-main\MiniCoreBack\Datos\obj\Debug\net7.0\refint\Datos.dll
+C:\Users\Kevin\Desktop\MIniCorePruebas\3\MiniCoreFinal-main (1)\MiniCoreFinal-main\MiniCoreBack\Datos\obj\Debug\net7.0\Datos.pdb
+C:\Users\Kevin\Desktop\MIniCorePruebas\3\MiniCoreFinal-main (1)\MiniCoreFinal-main\MiniCoreBack\Datos\obj\Debug\net7.0\Datos.genruntimeconfig.cache
+C:\Users\Kevin\Desktop\MIniCorePruebas\3\MiniCoreFinal-main (1)\MiniCoreFinal-main\MiniCoreBack\Datos\obj\Debug\net7.0\ref\Datos.dll
+C:\Users\Kevin\Desktop\Septimo Semestre Udla\Ingeniería Web Clases\Links Deberes\MINICORE KF\MINICORE-FUNCIONAL1\MiniCoreBackEnd\Datos\bin\Debug\net7.0\Datos.deps.json
+C:\Users\Kevin\Desktop\Septimo Semestre Udla\Ingeniería Web Clases\Links Deberes\MINICORE KF\MINICORE-FUNCIONAL1\MiniCoreBackEnd\Datos\bin\Debug\net7.0\Datos.runtimeconfig.json
+C:\Users\Kevin\Desktop\Septimo Semestre Udla\Ingeniería Web Clases\Links Deberes\MINICORE KF\MINICORE-FUNCIONAL1\MiniCoreBackEnd\Datos\bin\Debug\net7.0\Datos.dll
+C:\Users\Kevin\Desktop\Septimo Semestre Udla\Ingeniería Web Clases\Links Deberes\MINICORE KF\MINICORE-FUNCIONAL1\MiniCoreBackEnd\Datos\bin\Debug\net7.0\Datos.pdb
+C:\Users\Kevin\Desktop\Septimo Semestre Udla\Ingeniería Web Clases\Links Deberes\MINICORE KF\MINICORE-FUNCIONAL1\MiniCoreBackEnd\Datos\bin\Debug\net7.0\Entidades.dll
+C:\Users\Kevin\Desktop\Septimo Semestre Udla\Ingeniería Web Clases\Links Deberes\MINICORE KF\MINICORE-FUNCIONAL1\MiniCoreBackEnd\Datos\bin\Debug\net7.0\Entidades.pdb
+C:\Users\Kevin\Desktop\Septimo Semestre Udla\Ingeniería Web Clases\Links Deberes\MINICORE KF\MINICORE-FUNCIONAL1\MiniCoreBackEnd\Datos\obj\Debug\net7.0\Datos.csproj.AssemblyReference.cache
+C:\Users\Kevin\Desktop\Septimo Semestre Udla\Ingeniería Web Clases\Links Deberes\MINICORE KF\MINICORE-FUNCIONAL1\MiniCoreBackEnd\Datos\obj\Debug\net7.0\Datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kevin\Desktop\Septimo Semestre Udla\Ingeniería Web Clases\Links Deberes\MINICORE KF\MINICORE-FUNCIONAL1\MiniCoreBackEnd\Datos\obj\Debug\net7.0\Datos.AssemblyInfoInputs.cache
+C:\Users\Kevin\Desktop\Septimo Semestre Udla\Ingeniería Web Clases\Links Deberes\MINICORE KF\MINICORE-FUNCIONAL1\MiniCoreBackEnd\Datos\obj\Debug\net7.0\Datos.AssemblyInfo.cs
+C:\Users\Kevin\Desktop\Septimo Semestre Udla\Ingeniería Web Clases\Links Deberes\MINICORE KF\MINICORE-FUNCIONAL1\MiniCoreBackEnd\Datos\obj\Debug\net7.0\Datos.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\Desktop\Septimo Semestre Udla\Ingeniería Web Clases\Links Deberes\MINICORE KF\MINICORE-FUNCIONAL1\MiniCoreBackEnd\Datos\obj\Debug\net7.0\Datos.csproj.CopyComplete
+C:\Users\Kevin\Desktop\Septimo Semestre Udla\Ingeniería Web Clases\Links Deberes\MINICORE KF\MINICORE-FUNCIONAL1\MiniCoreBackEnd\Datos\obj\Debug\net7.0\Datos.dll
+C:\Users\Kevin\Desktop\Septimo Semestre Udla\Ingeniería Web Clases\Links Deberes\MINICORE KF\MINICORE-FUNCIONAL1\MiniCoreBackEnd\Datos\obj\Debug\net7.0\refint\Datos.dll
+C:\Users\Kevin\Desktop\Septimo Semestre Udla\Ingeniería Web Clases\Links Deberes\MINICORE KF\MINICORE-FUNCIONAL1\MiniCoreBackEnd\Datos\obj\Debug\net7.0\Datos.pdb
+C:\Users\Kevin\Desktop\Septimo Semestre Udla\Ingeniería Web Clases\Links Deberes\MINICORE KF\MINICORE-FUNCIONAL1\MiniCoreBackEnd\Datos\obj\Debug\net7.0\Datos.genruntimeconfig.cache
+C:\Users\Kevin\Desktop\Septimo Semestre Udla\Ingeniería Web Clases\Links Deberes\MINICORE KF\MINICORE-FUNCIONAL1\MiniCoreBackEnd\Datos\obj\Debug\net7.0\ref\Datos.dll
